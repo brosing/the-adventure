@@ -1,0 +1,9 @@
+[submodule "the-boy-who-collected-silence"]
+	path = the-boy-who-collected-silence
+	url = git@github.com:brosing/the-boy-who-collected-silence.git
+[submodule "the-boy-who-collected-silence-landing-page"]
+	path = the-boy-who-collected-silence-landing-page
+	url = git@github.com:brosing/the-boy-who-collected-silence-landing-page.git
+[submodule "the-boy-who-collected-silence-reader-view"]
+	path = the-boy-who-collected-silence-reader-view
+	url = git@github.com:brosing/the-boy-who-collected-silence-reader-view.git
