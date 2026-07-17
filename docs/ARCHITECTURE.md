@@ -19,7 +19,7 @@ the-boy-who-collected-silence-reader-view    (browser extension)
 ```
 
 - **md-rpg → game** is the only code dependency, and it's build-time only: `pnpm
-  install` fetches the engine's raw TypeScript from GitHub into `node_modules`,
+install` fetches the engine's raw TypeScript from GitHub into `node_modules`,
   and Next transpiles it via `transpilePackages`.
 - **Landing page and reader extension have no code dependency** on the engine, the
   game, or each other. What they share is the visual language — dark, late-night,
@@ -36,10 +36,10 @@ the-boy-who-collected-silence-reader-view    (browser extension)
 
 The engine is tracked twice, two different ways, on purpose:
 
-| Where | Form | Role |
-| --- | --- | --- |
-| `the-adventure/md-rpg` | git submodule (gitlink) | Visibility/orchestration only — lets this workspace see and browse the engine alongside its consumers. **No build consumes this checkout.** |
-| game's `package.json` | `github:brosing/md-rpg#<full-sha>` | The authoritative build input — what the game actually compiles and ships. |
+| Where                  | Form                               | Role                                                                                                                                        |
+| ---------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| `the-adventure/md-rpg` | git submodule (gitlink)            | Visibility/orchestration only — lets this workspace see and browse the engine alongside its consumers. **No build consumes this checkout.** |
+| game's `package.json`  | `github:brosing/md-rpg#<full-sha>` | The authoritative build input — what the game actually compiles and ships.                                                                  |
 
 The game's pin wins. The root submodule pointer should follow it; if they diverge,
 update the submodule to match the game's resolved SHA, not the other way around.
@@ -55,8 +55,7 @@ When the engine changes, the order is fixed:
    `pnpm install`, run `npm test` and `npm run build`, commit (including
    `pnpm-lock.yaml`), push.
 3. **At this root**: `git -C md-rpg fetch && git -C md-rpg checkout <sha>`, same
-   for the game submodule's new HEAD, then `git add md-rpg
-   the-boy-who-collected-silence` and commit the pointer bump.
+   for the game submodule's new HEAD, then `git add md-rpg the-boy-who-collected-silence` and commit the pointer bump.
 
 The general submodule rule (see `CLAUDE.md`): commits land inside each submodule
 first, against its own remote; the root pointer bump is always last and always
@@ -64,12 +63,12 @@ deliberate. Never let pointers drift silently.
 
 ## Deploy ownership
 
-| Surface | Deploys to | How |
-| --- | --- | --- |
-| Game | Any static host (web) + App Store / Play Store | `npm run build` → `out/`; `npm run cap:sync` snapshots it into `ios/`/`android/` for native builds |
-| Landing page | Cloudflare (worker `bellwood`, https://bellwood.mnmls.net) | `wrangler`, per its repo |
-| Reader extension | Chrome Web Store + Safari port | No build step; load unpacked / package per its `README.md`/`SAFARI.md` |
-| md-rpg | Nothing today | `publishConfig` is wired for a future npm publish; consumed from git until then |
+| Surface          | Deploys to                                                 | How                                                                                                |
+| ---------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Game             | Any static host (web) + App Store / Play Store             | `npm run build` → `out/`; `npm run cap:sync` snapshots it into `ios/`/`android/` for native builds |
+| Landing page     | Cloudflare (worker `bellwood`, https://bellwood.mnmls.net) | `wrangler`, per its repo                                                                           |
+| Reader extension | Chrome Web Store + Safari port                             | No build step; load unpacked / package per its `README.md`/`SAFARI.md`                             |
+| md-rpg           | Nothing today                                              | `publishConfig` is wired for a future npm publish; consumed from git until then                    |
 
 ## Why a GitHub dependency (and not a submodule/workspace)
 
