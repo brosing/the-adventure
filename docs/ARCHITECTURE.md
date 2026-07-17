@@ -108,5 +108,4 @@ replaced by the pinned GitHub dependency. Trade-offs, on record:
 
 Keeping the root `md-rpg` submodule pointer equal to the SHA in the game's
 `pnpm-lock.yaml` is manual today (step 3 of the release ordering). A small check
-script at this root could assert it — tracked as item 7 in the game repo's
-`docs/IMPROVEMENTS.md`.
+script at this root could assert it.

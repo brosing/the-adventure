@@ -46,3 +46,5 @@ Each of the four directories above is a **separate git repository** (own remote 
   - Do NOT ask what to do next.
   - Do NOT prompt the user to proceed.
   - Simply output a brief statement (e.g., "Plan is ready. Stopping for model switch.") and stop calling tools to yield your turn. This allows the user to easily switch models.
+
+- **Rule**: Whenever you are in finish on implementing changes, never commit or create a pull request so I can review the changes.
