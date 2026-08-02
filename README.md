@@ -26,3 +26,10 @@ git submodule update --init --recursive
 Each submodule is a separate repo — `cd` in and work as you would in any standalone checkout. See [`CLAUDE.md`](CLAUDE.md) for the full submodule workflow (committing inside a submodule vs. updating the pointer here), [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) for how the pieces relate and ship, and each submodule's own `CLAUDE.md`/`README.md` for its specific setup and commands.
 
 The engine itself lives in [`md-rpg/`](md-rpg); the game's design specs (`ENGINE_SPEC.md`, `GAME_DESIGN.md`, …) live in the game repo's `docs/`.
+
+## The wider universe
+
+_The Boy Who Collected Silence_ is series 1 of a planned four-series universe, each escalating
+reader sophistication and game-mechanic complexity — from a linear story, through branching, to
+a living world with inner-quality stats and no combat anywhere. Shared mythology, continuity
+rules, and per-series concept docs: [`docs/STORY_BIBLE.md`](docs/STORY_BIBLE.md).
