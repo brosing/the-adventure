@@ -29,7 +29,6 @@ The engine itself lives in [`md-rpg/`](md-rpg); the game's design specs (`ENGINE
 
 ## The wider universe
 
-_The Boy Who Collected Silence_ is series 1 of a planned four-series universe, each escalating
-reader sophistication and game-mechanic complexity — from a linear story, through branching, to
-a living world with inner-quality stats and no combat anywhere. Shared mythology, continuity
-rules, and per-series concept docs: [`docs/STORY_BIBLE.md`](docs/STORY_BIBLE.md).
+_The Boy Who Collected Silence_ is series 1. The shared mythology and the shape of what follows
+are being reworked from scratch — the previous story bible and per-series concept docs have been
+removed, and nothing replaces them yet.
