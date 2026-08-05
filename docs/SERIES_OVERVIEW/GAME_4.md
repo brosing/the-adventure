@@ -10,7 +10,21 @@ Renamed, because the point of the game is that the First Quiet is not where the 
 
 ### Theme
 
-Belonging
+Phronesis
+
+Practical Wisdom.
+
+Not wisdom about grand things.
+
+Wisdom about small ones.
+
+Knowing which errand is also a kindness.
+
+Knowing when to speak and when to stay.
+
+Knowing that belonging is not a feeling that arrives.
+
+It is something you build, one act of tending at a time.
 
 ### Story Genre
 
@@ -24,7 +38,11 @@ Narrative Text RPG
 
 Systemic
 
-Teach people to live inside a story.
+The player has learned to read attentively (Game I), connectedly (Game II), and exploratively (Game III).
+
+This game teaches them to live inside a story — to move through a world, tend its people, and feel the weight of choices not as plot branches but as character.
+
+Systemic reading is what happens when you finish a book and feel like you have been away somewhere and returned changed.
 
 ### The Inversion
 
@@ -176,20 +194,120 @@ Let them keep misquoting him.
 
 That is how the misunderstanding started.
 
+### The World State
+
+Bellwood is where the player lives.
+
+Not travels through. Lives.
+
+It is thinning, not empty. That distinction is everything.
+
+The market still opens. The bells still ring on the hour. A handful of shops keep their hours. The willow at the edge of town is older and wider than anyone can remember.
+
+What is missing is the middle of things: the neighbors, the steady hum of people going about their days. The absences accumulate. The player feels them before they understand them.
+
+**The Silence Wells**
+
+They are still flowing. Slowly.
+
+Tending the Wells was what the Keeper's line did.
+
+The last keeper's line has gone quiet — whether aged, or gone to the First Quiet themselves, or simply no longer reachable, the player does not know. But the Wells keep what they were given. They are not broken. They are simply unwatched.
+
+One of the player's errands, late in the game, will bring them to a Well.
+
+They do not need to understand it to tend it.
+
+**The Keeper's Line**
+
+By this era, the lineage is legend.
+
+Nobody in Bellwood can name the last Keeper. A few remember a woman who passed through "many years ago" — spoke little, left a note on the door of a listening house, moved on.
+
+The note is still there. Most people have stopped reading it.
+
+The player can read it.
+
+**The Quiet Whale**
+
+Nobody living has seen one.
+
+There is a mural on the ferry station wall in Varemoor — painted by someone who came back from the First Quiet and tried to describe what they heard on the water. Most people assume it is a dream. The ferryman's grandfather used to argue otherwise.
+
+In Bellwood, an old man who stayed has a drawing of one above his mantle. He will not explain it, but he will not take it down either.
+
+**Mr. Ticktock**
+
+He is not present. He died many years before this game.
+
+But the listening houses are his.
+
+His name is carved into the lintel of each one: *Built for the sake of being heard. — T.*
+
+Most people do not know who T. was.
+
+One person does, and will tell the player if asked the right way.
+
+### Threads from Game III
+
+Varemoor is known here.
+
+Not famous. Known the way a place is known when a few people came back from it changed.
+
+The ferry still runs.
+
+The lighthouse is newer — the old one needed rebuilding after a storm. A plaque says so.
+
+The tea house above the harbor is shuttered. The listening house above it is the only room with a light.
+
+The ferry station master from Game III is very old now, barely walking, living in the room above the station. He has one errand left: to give a letter to whoever comes and sits with him long enough to receive it.
+
+The letter is from Maren.
+
+It has been waiting nine years.
+
+---
+
 ### Product Goal
 
 Teach systemic reading.
 
 Teach people to live inside a story.
 
+Not to complete it.
+
+To inhabit it.
+
 ### Narrative Goal
 
-Teach belonging.
+Teach phronesis.
 
-The world does not need saving.
+The series has followed one long arc:
 
-It needs tending.
+Game I: the noise outside became bearable through solitude.
 
-Players should never feel like heroes saving the world.
+Game II: the noise inside became bearable through focus.
 
-They should feel like ordinary people helping the world continue living.
+Game III: the noise of time became bearable through presence.
+
+Game IV: what do you do with all of that, in a world that still needs tending?
+
+Phronesis is the answer.
+
+Not a philosophy. Not a theory. A practice.
+
+The player will spend this game making small decisions: who to sit with, what to finish, which door to reopen.
+
+By the end, without being told, they will have practiced practical wisdom.
+
+They will have learned that the world does not need saving.
+
+It needs people who stayed.
+
+That is the entire arc.
+
+The world gave them noise.
+
+They reclaimed solitude, then focus, then presence.
+
+And now, finally, they are wise enough to tend something larger than themselves.

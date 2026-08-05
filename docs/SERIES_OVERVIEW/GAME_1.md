@@ -20,9 +20,15 @@ Interactive Fiction
 
 ### Reading Level
 
-Read → Attentive
+Read + Attentive
 
 The first rung. The player is asked only to keep reading — and then quietly rewarded for reading closely.
+
+Doomscrolling trains the mind to consume fast and discard faster.
+
+This game trains the opposite: stay, notice, return.
+
+The moon meter is the reading muscle. The hidden paragraphs are the first proof it works.
 
 ### Shape
 
@@ -81,6 +87,12 @@ Teach players to enjoy reading again.
 
 Then teach them to read closely.
 
+Doomscrolling does not make people hate reading.
+
+It makes them forget what it feels like to stay.
+
+This game is the first reminder.
+
 ### Narrative Goal
 
 Teach players to listen.
@@ -89,8 +101,28 @@ Not hearing.
 
 Listening.
 
-Embrace solitude.
+The noise in Bellwood is not metaphor.
+
+It is a portrait of the world the player already lives in:
+
+chatterboxes, bells, the inability to tolerate the space between words.
+
+Embracing solitude is the first act of reclamation.
 
 Learn that silence was never something to keep.
 
 Only something to share.
+
+### Position in the Arc
+
+Game I is the entry point.
+
+Before a person can reclaim focus, presence, or wisdom,
+
+they first have to be able to sit with something long enough to feel it.
+
+This game restores that capacity.
+
+It is the quietest game in the series.
+
+Also the most necessary.

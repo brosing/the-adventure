@@ -29,11 +29,17 @@ Interactive Mystery
 
 ### Reading Level
 
-Attentive → Connective
+Connective
 
-Game I taught the player to read closely.
+Game I taught the player to stay with a story and notice what was quiet.
 
-This one teaches them to hold two things in mind at once, and notice they touch.
+This game teaches them to hold two things in mind at the same time — a current observation and a past one — and to feel the moment they connect.
+
+This is the first step toward deep reading.
+
+Also the first step toward what some call deep work:
+
+giving one question your full, sustained attention until it answers itself.
 
 ### When
 
@@ -154,18 +160,34 @@ Let the clock and the forgetting be its symptoms.
 
 ### Product Goal
 
-Teach attentive reading.
+Teach connective reading.
 
 Read carefully.
 
-Then teach connective reading — two facts, far apart, that belong together.
+Then hold what you read long enough for two distant facts to find each other.
+
+This is the reading equivalent of focus:
+
+not just taking in information, but staying with it until it becomes understanding.
 
 ### Narrative Goal
 
 Teach focus.
 
-Players should experience attention instead of being told to focus.
+The modern world does not steal attention by force.
 
-And should finish suspecting that most things do not break.
+It offers something cheaper instead — endless half-attention, spread across a hundred things simultaneously.
 
-They fade, while everyone is looking at something else.
+The flame in this game runs on regard.
+
+Regard is what the town ran out of.
+
+Not because people stopped caring.
+
+Because they started caring about everything a little instead of anything fully.
+
+Players should experience attention as a resource —
+
+and finish suspecting that most things in their own lives do not break.
+
+They simply fade while everyone is looking somewhere else.

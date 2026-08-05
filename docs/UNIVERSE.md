@@ -49,16 +49,28 @@ Every new title increases the player's reading capability without them realizing
 
 # Narrative Mission
 
-> Tell timeless philosophical fairy tales that help people rediscover what modern life quietly steals away.
+> Tell timeless philosophical fairy tales that help people reclaim what modern life quietly steals away.
 
-Every story should explore one core human value.
+The four games form a single quiet argument.
 
-Examples:
+The world is louder than it has ever been.
 
-- Solitude
-- Focus
-- Presence
-- Belonging
+Not because people became cruel.
+
+Because attention became cheap.
+
+Doomscrolling is the symptom. The series is the long, slow antidote.
+
+Each story treats one layer of the wound:
+
+- **Game I** — the noise outside. Reclaim your solitude.
+- **Game II** — the noise inside. Reclaim your focus.
+- **Game III** — the noise of time. Reclaim your presence.
+- **Game IV** — the noise of the crowd. Reclaim your wisdom.
+
+None of this is ever said aloud in the games.
+
+It is only felt.
 
 The games should **ask questions**, not provide answers.
 
@@ -157,37 +169,47 @@ Characters simply accept these things.
 
 Each game teaches a higher level of reading.
 
+The player never realizes they are being taught.
+
 ```
-Read
-    ↓
-Attentive Reading
-    ↓
-Explorative Reading
-    ↓
-Systemic Reading
+Game I   →  Read + Attentive
+              Stay with the story. Notice what is quiet.
+
+Game II  →  Connective
+              Hold two things at once. Notice they touch.
+
+Game III →  Explorative
+              Navigate a world. Choose what to attend to.
+
+Game IV  →  Systemic
+              Live inside the story. Tend it like a world.
 ```
 
 ---
 
 # Narrative Progression
 
-Each story explores a different philosophy.
+Each story reclaims something modern life takes.
 
 ```
-Listen
-    ↓
-Focus
-    ↓
-Presence
-    ↓
-Belonging
-```
+Game I   →  Solitude
+              The noise is outside. Learn to be alone without loneliness.
 
-These are independent.
+Game II  →  Focus
+              The noise is inside. Learn to give one thing your whole attention.
+
+Game III →  Presence
+              The noise is time itself. Learn to be fully here.
+
+Game IV  →  Phronesis
+              Practical wisdom. Learn what tending a world actually requires.
+```
 
 Gameplay teaches reading.
 
 Story teaches living.
+
+Neither announces itself.
 
 ---
 
@@ -195,19 +217,29 @@ Story teaches living.
 
 ---
 
-[GAME I — The Boy Who Collected Silence](SERIES_OVERVIEW/GAME_1.md) — Solitude, Listening. Shipped.
+[GAME I — The Boy Who Collected Silence](SERIES_OVERVIEW/GAME_1.md)
+
+Solitude. *Reclaim the quiet outside.*
+
+Shipped.
 
 ---
 
-[GAME II — The Keeper of One Flame](SERIES_OVERVIEW/GAME_2.md) — Focus.
+[GAME II — The Keeper of One Flame](SERIES_OVERVIEW/GAME_2.md)
+
+Focus. *Reclaim the quiet inside.*
 
 ---
 
-[GAME III — The Girl Who Carried Time](SERIES_OVERVIEW/GAME_3.md) — Presence.
+[GAME III — The Girl Who Carried Time](SERIES_OVERVIEW/GAME_3.md)
+
+Presence. *Reclaim the quiet between.*
 
 ---
 
-[GAME IV — The Second Quiet](SERIES_OVERVIEW/GAME_4.md) — Belonging.
+[GAME IV — The Second Quiet](SERIES_OVERVIEW/GAME_4.md)
+
+Phronesis. *Reclaim the quiet together.*
 
 ---
 
@@ -217,7 +249,7 @@ Never use combat stats.
 
 Use human qualities.
 
-Examples:
+The qualities a player might grow:
 
 - Attention
 - Curiosity
@@ -226,27 +258,17 @@ Examples:
 - Memory
 - Resolve
 
-Stats grow through behavior.
+Stats grow through behavior, never announced.
 
-Example
+Read something carefully → Attention deepens.
 
-Read books
+Help a stranger without reward → Empathy grows.
 
-↓
+Rush a conversation → nothing changes.
 
-Attention +
+This system belongs fully to Game IV.
 
-Help strangers
-
-↓
-
-Empathy +
-
-Rush conversations
-
-↓
-
-No growth
+Earlier games carry only traces of it.
 
 ---
 
@@ -271,13 +293,13 @@ Already canon, from Game I:
 - The First Quiet
 - The listening houses
 
-Planned, not yet written:
+Introduced in Game III (Varemoor), carried into Game IV:
 
 - Lighthouse
 - Bakery
 - Library
-- Station
-- Tea House
+- Ferry Station
+- Tea House (with a listening house above it)
 
 Players gradually become familiar with them across games.
 
