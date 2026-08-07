@@ -1,27 +1,18 @@
 # GAME II
 
-## Working Title
+## The Girl Who Followed the Light
 
-The Keeper of One Flame
+In development.
 
 ### Theme
 
 Focus
 
+Deep Work
+
 ### Story Genre
 
 Philosophical Mystery
-
-Not murder mystery.
-
-Mystery about the world.
-
-Questions like:
-
-- Why is the flame fading?
-- Why does the clock stop?
-- Who wrote this letter?
-- Why does nobody remember?
 
 ### Game Genre
 
@@ -29,165 +20,120 @@ Interactive Mystery
 
 ### Reading Level
 
-Connective
+Read + Analytical
 
-Game I taught the player to stay with a story and notice what was quiet.
+The second rung. The player is asked to notice what others miss, and then to connect what they noticed.
 
-This game teaches them to hold two things in mind at the same time — a current observation and a past one — and to feel the moment they connect.
+Doomscrolling trains the mind to accept the first answer.
 
-This is the first step toward deep reading.
+This game trains the opposite: look again, look deeper, look between.
 
-Also the first step toward what some call deep work:
+The focus mechanic is the reading muscle. The completed patterns are the first proof it works.
 
-giving one question your full, sustained attention until it answers itself.
+### Shape
 
-### When
+TBD.
 
-Generations before Bellwood had bells.
+Proposal: 15–20 scenes, not gated by chapter order but by connections made. Locations and journals can be revisited. Progress comes from depth, not speed — mechanically enforcing what Deep Work asks of the player.
 
-Before the Noise came.
+### Gameplay
 
-Not the past of Game I.
+- Observing tiny clues
+- Revisiting locations
+- Connecting ideas
+- Reading journals
+- Finding patterns
 
-That past is already occupied — travelers, a garden, a grief — and belongs to Game I alone.
+Every mechanic rewards attention over speed.
 
-This is older, and quieter, and ordinary.
+### What Choices Change
 
-### The World
+TBD.
 
-There was a time when tending was an ordinary job.
+Proposal, following Game I's principle that choices never move the destination: here, choices change what the player notices and connects — which threads reveal themselves, which patterns come into focus, which journals open early. Never the mystery itself.
 
-One town. One well. One flame.
+### Attentiveness
 
-Someone watched it, the way someone bakes bread or mends a roof.
+TBD.
 
-Nobody thought it was holy.
+Proposal: a lantern. Carried, not found.
 
-They only knew it went out if nobody looked.
+It brightens when the player stays with one thread of the mystery. It dims when attention scatters across many.
 
-> In Game I, an old woman says the wells replenish only with true attention, and that villages once tended them.
->
-> This is that time. The player performs, as an ordinary shift of work, the practice whose absence kills the world four hundred years later.
-
-### Premise
-
-The keeper walked away in the middle of a shift.
-
-They left the lamp burning, the door open, and a logbook on the table.
-
-Nobody in town can agree on when.
-
-The player takes the post because it comes with lodging.
-
-Not because they were chosen.
-
-Nobody is chosen here.
-
-### The Mystery
-
-The logbook is the mystery.
-
-Early pages notice everything: weather, visitors, the color of the flame, a neighbor's cough, a bird returning late.
-
-Later pages notice less.
-
-Then only the flame.
-
-Then only the date.
-
-Then nothing.
-
-The player is not hunting a criminal.
-
-The player is reconstructing an attention as it came apart.
-
-### The Answer
-
-The flame is not being stolen.
-
-Nothing is broken.
-
-The town simply stopped giving anything its whole regard.
-
-Half-read books. Half-heard conversations. Half-tended gardens. A hundred things watched almost enough.
-
-One flame runs on regard, and regard is what ran out.
-
-The reveal must be earned by noticing, never by being told.
-
-### The Keeper Is Found
-
-And is alive, and is well enough.
-
-They did not die. They were not taken.
-
-They left because they could no longer hold one thing in mind long enough to keep it alive, and were ashamed of it.
-
-The ending is a person recovered, not a person rescued.
-
-There is nothing to defeat.
-
-### Keeper as a Title
-
-"Keeper" is a post, handed down.
-
-It is not one woman.
-
-By Game I, the line has thinned to a single old keeper living beyond the map, tending what is left, and the title has become the only thing anyone remembers about her.
-
-### New Mechanics
-
-Everything from Game I:
-
-- Examine
-- Notebook
-- Evidence collection
-- Dialogue history
-- Hidden clues
-- Information linking
-
-Still mostly linear.
-
-### Avoid
-
-Do not stack three mysteries.
-
-A fading flame, a stopped clock, and a town that cannot remember is one mystery too many, and is also a book that already exists.
-
-Choose the flame.
-
-Let the clock and the forgetting be its symptoms.
+Where Game I's moon is passive — waxing with patience alone — the lantern is active. The player chooses what it lights.
 
 ### Product Goal
 
-Teach connective reading.
+Teach players to notice what they would normally scroll past.
 
-Read carefully.
+Doomscrolling does not make people blind. It makes them forget what it feels like to look twice.
 
-Then hold what you read long enough for two distant facts to find each other.
-
-This is the reading equivalent of focus:
-
-not just taking in information, but staying with it until it becomes understanding.
+This game is the second reminder.
 
 ### Narrative Goal
 
-Teach focus.
+Teach players to choose.
 
-The modern world does not steal attention by force.
+Not what deserves their time. That is productivity.
 
-It offers something cheaper instead — endless half-attention, spread across a hundred things simultaneously.
+What deserves their life. That is Deep Work.
 
-The flame in this game runs on regard.
+The city in Game II is not louder than Bellwoods. It is brighter — full of lights worth following, none worth staying with. That is the quieter danger.
 
-Regard is what the town ran out of.
+### Position in the Arc
 
-Not because people stopped caring.
+Game II builds on what Game I restored.
 
-Because they started caring about everything a little instead of anything fully.
+Before a person can choose one light and follow it, they first have to be able to sit with something long enough to feel it.
 
-Players should experience attention as a resource —
+Game I gave the player that capacity. Game II asks them to point it somewhere.
 
-and finish suspecting that most things in their own lives do not break.
+---
 
-They simply fade while everyone is looking somewhere else.
+### Setting
+
+A new city. Not Bellwoods.
+
+Brighter. Wealthier. Technologically advanced. Fashionable.
+
+People still use Chatterboxes. But unlike Bellwoods, they know how to control them — scheduling silence, work, socializing. They are healthier. They meditate. They silence notifications. They are productive.
+
+Yet nobody creates masterpieces anymore.
+
+Because everyone keeps changing direction. They follow many lights. Never one.
+
+City name: TBD.
+
+### Protagonist
+
+Mira. A wealthy girl, born into privilege.
+
+Her day is optimized. She owns the newest Chatterbox. She is successful.
+
+But she has forgotten how to wonder.
+
+Unlike Asa, she isn't searching for silence. She is searching for meaning beyond achievement.
+
+Hobby: sketching, or tracing beams of light in a notebook — noticing how light changes throughout the day. Her keepsakes should come from this hobby: completed sketches, each one a moment she chose to stay with rather than move past. (TBD — final keepsake system.)
+
+### Core Question
+
+What deserves my deepest attention?
+
+Not "What deserves my time?" — that is productivity.
+
+"What deserves my life?" — that is Deep Work.
+
+### Mystery
+
+Disappearing inspiration. Not disappearing people.
+
+Artists, inventors, writers, musicians all begin brilliant projects. None finish them.
+
+The city slowly loses creativity — not from distraction, but from nobody staying with one idea long enough.
+
+### Ending
+
+Mira does not discover the brightest light.
+
+She discovers the one worth following.

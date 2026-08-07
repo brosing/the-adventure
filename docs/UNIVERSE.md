@@ -1,4 +1,5 @@
 # Text-Based Game Universe Documentation
+
 > Universe Design Guide v1.0
 
 ---
@@ -27,7 +28,7 @@ Slightly more human.
 
 # Vision
 
-Create a series of philosophical text-based games that gradually transform non-readers into passionate readers.
+Create a series of philosophical text-based games that gradually transform non-readers or the lost interest readers into passionate readers.
 
 The games should never feel like educational software.
 
@@ -61,13 +62,6 @@ Because attention became cheap.
 
 Doomscrolling is the symptom. The series is the long, slow antidote.
 
-Each story treats one layer of the wound:
-
-- **Game I** — the noise outside. Reclaim your solitude.
-- **Game II** — the noise inside. Reclaim your focus.
-- **Game III** — the noise of time. Reclaim your presence.
-- **Game IV** — the noise of the crowd. Reclaim your wisdom.
-
 None of this is ever said aloud in the games.
 
 It is only felt.
@@ -87,7 +81,7 @@ The player should leave with reflections instead of lessons.
 
 ## Genre
 
-Modern Philosophical Fairy Tale Universe
+Modern Philosophical Fairy Tale Universe with Cozy Atmosphere
 
 A shared universe where each story explores one forgotten human virtue.
 
@@ -165,147 +159,70 @@ Characters simply accept these things.
 
 ---
 
-# Product Progression
+# Roadmap
 
-Each game teaches a higher level of reading.
-
-The player never realizes they are being taught.
-
-```
-Game I   →  Read + Attentive
-              Stay with the story. Notice what is quiet.
-
-Game II  →  Connective
-              Hold two things at once. Notice they touch.
-
-Game III →  Explorative
-              Navigate a world. Choose what to attend to.
-
-Game IV  →  Systemic
-              Live inside the story. Tend it like a world.
-```
+|                     | Game I                        | Game II                             | Game III                     | Bellwoods RPG                  |
+| ------------------- | ----------------------------- | ----------------------------------- | ---------------------------- | ------------------------------ |
+| **Protagonist**     | Asa                           | Mira (Wealthy Girl)                 | Ren (Ordinary Young Man)     | Create Your Own Character      |
+| **World**           | Bellwoods                     | Prosperous City                     | Bellwoods                    | Entire Region                  |
+| **Theme**           | Solitude, but listening       | Focus (Deep Work)                   | Presence & Connection        | Practical Wisdom (Live wisely) |
+| **Question**        | Can I hear myself?            | What deserves my deepest attention? | Who do I choose to care for? | How should I live?             |
+| **Player Learns**   | Listen                        | Notice                              | Care                         | Choose Wisely                  |
+| **Genre**           | Philosophical Fairy Tale      | Philosophical Mystery               | Narrative Adventure          | Narrative RPG                  |
+| **Game Genre**      | Interactive Fiction           | Interactive Mystery                 | Narrative Adventure          | Open Narrative RPG             |
+| **Conflict**        | Self vs Noise                 | Truth vs Distraction                | Responsibility vs Comfort    | Meaning vs Perfect Peace       |
+| **The First Quiet** | A legend                      | A rumor                             | A temptation                 | A permanent part of the world  |
+| **Title**           | The Boy Who Collected Silence | The Girl Who Followed the Light     | The Roads Between Us         | (TBD)                          |
 
 ---
 
-# Narrative Progression
+# Creative Growth
 
-Each story reclaims something modern life takes.
-
-```
-Game I   →  Solitude
-              The noise is outside. Learn to be alone without loneliness.
-
-Game II  →  Focus
-              The noise is inside. Learn to give one thing your whole attention.
-
-Game III →  Presence
-              The noise is time itself. Learn to be fully here.
-
-Game IV  →  Phronesis
-              Practical wisdom. Learn what tending a world actually requires.
-```
-
-Gameplay teaches reading.
-
-Story teaches living.
-
-Neither announces itself.
-
----
-
-# Series Overview
-
----
-
-[GAME I — The Boy Who Collected Silence](SERIES_OVERVIEW/GAME_1.md)
-
-Solitude. *Reclaim the quiet outside.*
-
-Shipped.
-
----
-
-[GAME II — The Keeper of One Flame](SERIES_OVERVIEW/GAME_2.md)
-
-Focus. *Reclaim the quiet inside.*
-
----
-
-[GAME III — The Girl Who Carried Time](SERIES_OVERVIEW/GAME_3.md)
-
-Presence. *Reclaim the quiet between.*
-
----
-
-[GAME IV — The Second Quiet](SERIES_OVERVIEW/GAME_4.md)
-
-Phronesis. *Reclaim the quiet together.*
+| Game              | Growth                                                                                          |
+| ----------------- | ----------------------------------------------------------------------------------------------- |
+| **Game I**        | Receive inspiration from yourself and others.                                                   |
+| **Game II**       | Commit to one meaningful idea long enough to create something worthwhile.                       |
+| **Game III**      | Bring your work back to people and strengthen the bonds between them.                           |
+| **Bellwoods RPG** | Balance listening, focus, creation, relationships, and responsibility throughout everyday life. |
 
 ---
 
 # Character Progression
 
-Never use combat stats.
+|                   | Game I                  | Game II                    | Game III                   |
+| ----------------- | ----------------------- | -------------------------- | -------------------------- |
+| **Protagonist**   | Asa                     | Mira                       | Ren                        |
+| **Hobby**         | Collecting silence      | Sketching light            | Walking                    |
+| **Flaw**          | Isolation               | Achievement without wonder | Rushing without pausing    |
+| **Growth**        | Learns to share silence | Learns to follow one light | Learns to be fully present |
+| **Human Need**    | Solitude                | Focus                      | Connection                 |
+| **Reading Level** | Read + Attentive        | Read + Analytical          | Read + Empathetic          |
+| **Attentiveness** | Moon                    | Lantern                    | Hearth                     |
+| **Keepsake**      | Jars of silence         | Sketches (TBD)             | Road moments (TBD)         |
 
-Use human qualities.
+The attentiveness metaphor is a single light, changing form across the trilogy:
 
-The qualities a player might grow:
+Moon — passive, distant, waxes with patience alone. The light you observe.
 
-- Attention
-- Curiosity
-- Empathy
-- Patience
-- Memory
-- Resolve
+Lantern — active, carried, brightens with sustained focus. The light you choose.
 
-Stats grow through behavior, never announced.
-
-Read something carefully → Attention deepens.
-
-Help a stranger without reward → Empathy grows.
-
-Rush a conversation → nothing changes.
-
-This system belongs fully to Game IV.
-
-Earlier games carry only traces of it.
+Hearth — active, shared, warms only with others present. The light you share.
 
 ---
 
 # World Design
 
-The universe should feel small but deep.
+The world begins small and grows.
 
-Recurring locations:
+Game I takes place entirely in Bellwoods — a quiet town where noise has crept in.
 
-Already canon, from Game I:
+Game II moves to a new city — prosperous, advanced, fashionable. People control their Chatterboxes but follow many lights. The city has no name yet.
 
-- Bellwood
-- The willow at the edge of town
-- The Keeper's cottage beyond the map
-- The Market of Loud Things
-- The City That Forgot How to Listen, and its dry fountain
-- The Listening Forest
-- The Room of Unspoken Words
-- The Sea of Still Waters
-- The Mountain of Forgotten Dreams
-- The Silence Wells
-- The First Quiet
-- The listening houses
+Game III returns to Bellwoods — healed, with Listening Houses, roads full again.
 
-Introduced in Game III (Varemoor), carried into Game IV:
+Game IV opens the entire region.
 
-- Lighthouse
-- Bakery
-- Library
-- Ferry Station
-- Tea House (with a listening house above it)
-
-Players gradually become familiar with them across games.
-
-A place returns changed by time, or seen from another person's angle.
-
-Never as a souvenir.
+Each game expands the map. The world remembers what happened before.
 
 ---
 
